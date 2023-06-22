@@ -11,7 +11,7 @@ public class Prac1GitFlowApplication {
 		System.out.println("feature/memberDTO생성");
 		System.out.println("feature/memberDTO생성");
 
-
+		System.out.println("내가 메인이다.");
 	}
 
 }
